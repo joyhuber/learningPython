@@ -1,0 +1,14 @@
+2/11/2017 - I am downloading the IDLE.
+		user notes can be found at https://docs.python.org/2/library/idle.html
+
+	
+	I downloaded the free version of PyCharm on the desktop
+			www.jetbrains.com/pycharm/
+
+	
+	A good website with links to tools like kithub, pip and vertualenv is
+		https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code
+
+
+	Standars info can be found at  https://www.python.org/dev/peps/pep-0008
+
